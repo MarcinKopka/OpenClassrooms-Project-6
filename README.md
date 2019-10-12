@@ -27,3 +27,9 @@ Requirements:
    - The player can choose to attack or defend against the next shot
    - If the player chooses to defend themselves, they sustain 50% less damage than normal
    - As soon as the life points of a player (initially 100) falls to 0, the game is over
+
+#
+
+### To see project online click the link below:
+
+### [https://marcinkopka.github.io/OpenClassrooms-Project-6](https://marcinkopka.github.io/OpenClassrooms-Project-6)
