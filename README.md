@@ -8,6 +8,7 @@ Requirements:
    - HTML
    - CSS
    - JavaScript
+   - jQuery
 
 3. You must respect the following criteria:
    - 2 players play each turn to compete
